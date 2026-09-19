@@ -1,5 +1,5 @@
 {
-  "name": "companion-module-oncue",
+  "name": "companion-module-oncue-oncue",
   "version": "1.3.0",
   "description": "Companion module for OnCue (Timer, Teleprompter, Player)",
   "main": "main.js",
@@ -11,10 +11,10 @@
     "companion-module"
   ],
   "companion": {
-    "id": "oncue",
+    "id": "oncue-oncue",
     "name": "OnCue"
   },
-  "repository": "git+https://github.com/davibqueiroz/companion-module-oncue.git",
+  "repository": "git+https://github.com/davibqueiroz/companion-module-oncue-oncue.git",
   "scripts": {
     "package": "companion-module-build"
   },
