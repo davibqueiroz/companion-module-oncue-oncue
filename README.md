@@ -1,4 +1,4 @@
-# companion-module-oncue
+# companion-module-oncue-oncue
 
 A [Bitfocus Companion](https://bitfocus.io/companion) module for [OnCue](https://timernegativo.netlify.app), a live-event production suite (Timer, Teleprompter, Audio Player).
 
