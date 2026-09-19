@@ -1,15 +1,15 @@
 {
-  "id": "oncue",
+  "id": "oncue-oncue",
   "name": "OnCue",
   "shortname": "oncue",
   "description": "Control OnCue's Timer, Teleprompter, and Audio Player over the network",
-  "manufacturer": "Davi Queiroz",
+  "manufacturer": "OnCue",
   "products": ["OnCue"],
   "keywords": ["timer", "teleprompter", "player", "countdown", "events"],
   "version": "1.3.0",
   "license": "MIT",
-  "repository": "git+https://github.com/davibqueiroz/companion-module-oncue.git",
-  "bugs": "https://github.com/davibqueiroz/companion-module-oncue/issues",
+  "repository": "git+https://github.com/davibqueiroz/companion-module-oncue-oncue.git",
+  "bugs": "https://github.com/davibqueiroz/companion-module-oncue-oncue/issues",
   "maintainers": [
     { "name": "Davi Queiroz", "email": "daviqueiroz89@gmail.com" }
   ],
